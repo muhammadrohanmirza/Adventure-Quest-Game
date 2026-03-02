@@ -1,0 +1,8 @@
+# Don't ignore node_modules - Vercel needs it
+# node_modules
+
+# Ignore local dev files
+.env*
+.next
+out
+build
